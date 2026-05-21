@@ -52,4 +52,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gautamdev17/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0009-palindrome-number](https://github.com/gautamdev17/leetcode/tree/main/0009-palindrome-number/) | Easy |
 <!---LeetCode Topics End-->
