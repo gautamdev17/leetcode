@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gautamdev17/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0053-maximum-subarray](https://github.com/gautamdev17/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamdev17/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/gautamdev17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Hash Table
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/gautamdev17/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamdev17/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -40,4 +42,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamdev17/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/gautamdev17/leetcode/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
