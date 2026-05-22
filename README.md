@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/gautamdev17/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/gautamdev17/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0053-maximum-subarray](https://github.com/gautamdev17/leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0088-merge-sorted-array](https://github.com/gautamdev17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/gautamdev17/leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gautamdev17/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/gautamdev17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -37,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/gautamdev17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/gautamdev17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
@@ -62,4 +64,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/gautamdev17/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0088-merge-sorted-array](https://github.com/gautamdev17/leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
