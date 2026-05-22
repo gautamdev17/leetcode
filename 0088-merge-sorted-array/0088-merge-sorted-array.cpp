@@ -6,18 +6,13 @@ public:
         int p=m+n-1;
         while (i>=0 && j>=0){
             if(nums1[i]<=nums2[j]){
-                nums1[p]=nums2[j];
-                j--;
-            }else if (nums1[i]>nums2[j]){
-                nums1[p]=nums1[i];
-                i--;
+                nums1[p--]=nums2[j--]; // assign then decrement
+            }else{ //if nums1[i]>nums2[j]
+                nums1[p--]=nums1[i--];
             }
-            p--;
         }
         while(j>=0){
-            nums1[p]=nums2[j];
-            j--;
-            p--;
+            nums1[p--]=nums2[j--];
         }
     }
 };
