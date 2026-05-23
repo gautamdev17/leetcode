@@ -1,9 +1,9 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        int num;
+        int num=0;
         for(int i=0;i<s.size();i++){
-            if(i!=s.size()){
+            if(i!=s.size()-1){
                 if(s[i]=='I'&&s[i+1]=='V'){
                     num+=4;
                     i++;
