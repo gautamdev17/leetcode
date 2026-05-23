@@ -18,11 +18,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/gautamdev17/leetcode/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/gautamdev17/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/gautamdev17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamdev17/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/gautamdev17/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/gautamdev17/leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/gautamdev17/leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/gautamdev17/leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -62,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/gautamdev17/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/gautamdev17/leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/gautamdev17/leetcode/tree/main/2413-smallest-even-multiple/) | Easy |
 | [2469-convert-the-temperature](https://github.com/gautamdev17/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Trie
