@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/gautamdev17/leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [2469-convert-the-temperature](https://github.com/gautamdev17/leetcode/tree/main/2469-convert-the-temperature/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
