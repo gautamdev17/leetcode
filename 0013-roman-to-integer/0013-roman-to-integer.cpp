@@ -2,51 +2,13 @@ class Solution {
 public:
     int romanToInt(string s) {
         int num=0;
+        std::unordered_map<char,int> map = {{'I',1},{'V',5},{'X',10},{'L',50},{'C',100},{'D',500},{'M',1000}};
         for(int i=0;i<s.size();i++){
-            if(i!=s.size()-1){
-                if(s[i]=='I'&&s[i+1]=='V'){
-                    num+=4;
-                    i++;
-                    continue;
-                }else if(s[i]=='I'&&s[i+1]=='X'){
-                    num+=9;
-                    i++;
-                    continue;
-                }else if(s[i]=='X'&&s[i+1]=='L'){
-                    num+=40;
-                    i++;
-                    continue;
-                }
-                else if(s[i]=='X'&&s[i+1]=='C'){
-                    num+=90;
-                    i++;
-                    continue;
-                }
-                else if(s[i]=='C'&&s[i+1]=='D'){
-                    num+=400;
-                    i++;
-                    continue;
-                }
-                else if(s[i]=='C'&&s[i+1]=='M'){
-                    num+=900;
-                    i++;
-                    continue;
-                }
-            }
-            if(s[i]=='I')
-                num+=1;
-            else if(s[i]=='V')
-                num+=5;
-            else if(s[i]=='X')
-                num+=10;
-            else if(s[i]=='L')
-                num+=50;
-            else if(s[i]=='C')
-                num+=100;
-            else if(s[i]=='D')
-                num+=500;
-            else if(s[i]=='M')
-                num+=1000;
+            if(i!=s.size()-1 && map[s[i]]<map[s[i+1]]){
+                num+=map[s[i+1]]-map[s[i]];
+                i++;
+            }else
+                num+=map[s[i]];
         }
         return num;
     }
