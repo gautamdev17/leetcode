@@ -1,6 +1,8 @@
 class Solution {
 public:
     vector<int> sortedSquares(vector<int>& nums) {
+        ios_base::sync_with_stdio(false);
+        cin.tie(NULL);
         std::vector<int> result(nums.size());
         int i=0;
         int j=nums.size()-1;
