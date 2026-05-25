@@ -6,7 +6,7 @@ public:
         int j=nums.size()-1;
         int k = nums.size()-1;
         while(i<=j){
-            if(nums[i]*nums[i]<=nums[j]*nums[j]){// handle equal case anywhere its symmetrical
+            if(abs(nums[i])<=abs(nums[j])){// handle equal case anywhere its symmetrical
                 result[k]=nums[j]*nums[j];
                 j--;
             }else{
