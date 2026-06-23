@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/gautamdev17/leetcode/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/gautamdev17/leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/gautamdev17/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0704-binary-search](https://github.com/gautamdev17/leetcode/tree/main/0704-binary-search/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/gautamdev17/leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -100,4 +101,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/gautamdev17/leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/gautamdev17/leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
